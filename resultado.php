@@ -48,6 +48,8 @@ class Resultado{
      * @return string
      */
 
+     // teste de branch
+
     function cpfRandom($mascara = 1) {
         $n1 = rand(0, 9);
         $n2 = rand(0, 9);
